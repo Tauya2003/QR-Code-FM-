@@ -38,8 +38,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Github - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-- LinkedIn - [@yourusername](https://www.twitter.com/yourusername)
+- Github - [@Tauya2003](https://github.com/Tauya2003)
+- Frontend Mentor - [@Tauya2003](https://www.frontendmentor.io/profile/Tauya2003)
+- Twitter - [@ayuat2003](https://www.twitter.com/ayuat2003)
+- LinkedIn - [@TauyanasheMtowodzwa](https://www.linkedin.com/TauyanasheMtowodzwa)
 
