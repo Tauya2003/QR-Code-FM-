@@ -40,5 +40,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Github - [@Tauya2003](https://github.com/Tauya2003)
 - Frontend Mentor - [@Tauya2003](https://www.frontendmentor.io/profile/Tauya2003)
 - Twitter - [@ayuat2003](https://www.twitter.com/ayuat2003)
-- LinkedIn - [@TauyanasheMtowodzwa](https://www.linkedin.com/TauyanasheMtowodzwa)
+- LinkedIn - [@TauyanasheMtowodzwa]([https://www.linkedin.com/TauyanasheMtowodzwa](https://www.linkedin.com/in/tauyanashe-mtowodzwa-0ab98a218/))
 
