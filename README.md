@@ -17,13 +17,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-[Desktop](./images/screenshot-desktop.png)
-[Mobile](./images/screenshot-mobile.jpg)
+-[Desktop](./images/screenshot-desktop.png)
+-[Mobile](./images/screenshot-mobile.jpg)
 
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Repository](https://github.com/Tauya2003/QR-Code-FM-)
 - Live Site URL: [Live site](https://tauya2003.github.io/QR-Code-FM-/)
 
 ## My process
@@ -33,7 +33,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Mobile-first workflow
-- [Styled Components](https://styled-components.com/) - For styles
 
 
 ## Author
